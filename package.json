@@ -1,0 +1,23 @@
+{
+  "name": "deploy-blueprint-linter-gh-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrinceMerluza/deploy-blueprint-linter-gh-action.git"
+  },
+  "author": "Prince Merluza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PrinceMerluza/deploy-blueprint-linter-gh-action/issues"
+  },
+  "homepage": "https://github.com/PrinceMerluza/deploy-blueprint-linter-gh-action#readme",
+  "dependencies": {
+    "@octokit/rest": "^18.12.0",
+    "github-api-promise": "^1.13.5"
+  }
+}
